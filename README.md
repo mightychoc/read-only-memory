@@ -48,6 +48,10 @@ _Rootkits and Bootkits_ by A. Matrosov et al. (2019)
 
 _Attacking Network Protocols_ by J. Forshaw (2018)
 
+_The Art of Mac Malware, Vol 1_ by P. Wardle (2022)
+
+_The Art of Mac Malware, Vol 2_ by P. Wardle (2025)
+
 
 
 
